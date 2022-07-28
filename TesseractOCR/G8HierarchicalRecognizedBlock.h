@@ -6,7 +6,7 @@
 //  Copyright © 2015 Daniele Galiotto - www.g8production.com. All rights reserved.
 //
 
-#import <TesseractOCR/TesseractOCR.h>
+#import <TesseractOCR.h>
 
 @interface G8HierarchicalRecognizedBlock : G8RecognizedBlock
 
